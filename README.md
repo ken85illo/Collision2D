@@ -1,4 +1,4 @@
-# Collision2D
+# java-2d-collision
 Please excuse my poor art skills lol.
 ![Screenshot From 2025-04-14 02-50-39](https://github.com/user-attachments/assets/b873000c-ef00-4fa6-80e3-92825e16b722)
 ![Screenshot From 2025-04-14 02-50-52](https://github.com/user-attachments/assets/ca45a323-ead0-43f7-bcf1-d03ea5e40603)
